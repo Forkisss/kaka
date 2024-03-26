@@ -1,0 +1,16 @@
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\bin\Debug\net8.0-windows\C# Starter_1.exe
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\bin\Debug\net8.0-windows\C# Starter_1.deps.json
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\bin\Debug\net8.0-windows\C# Starter_1.runtimeconfig.json
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\bin\Debug\net8.0-windows\C# Starter_1.dll
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\bin\Debug\net8.0-windows\C# Starter_1.pdb
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C__Starter_1.Form1.resources
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.csproj.GenerateResource.cache
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.AssemblyInfoInputs.cache
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.AssemblyInfo.cs
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.csproj.CoreCompileInputs.cache
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.dll
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\refint\C# Starter_1.dll
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.pdb
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\C# Starter_1.genruntimeconfig.cache
+C:\Users\valol\source\repos\C# Starter_1\C# Starter_1\obj\Debug\net8.0-windows\ref\C# Starter_1.dll
